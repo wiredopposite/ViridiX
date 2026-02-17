@@ -1,19 +1,19 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViridiX.Mason", "ViridiX.Mason\ViridiX.Mason.csproj", "{CD0236F3-7AF3-44CE-A86A-34DA28E48207}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViridiX.Mason", "ViridiX.Mason\ViridiX.Mason.csproj", "{CD0236F3-7AF3-44CE-A86A-34DA28E48207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViridiX.Mason.Tests", "ViridiX.Mason.Tests\ViridiX.Mason.Tests.csproj", "{9DC3A5E8-9C7D-445F-A07E-A98A1EB0D528}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViridiX.Mason.Tests", "ViridiX.Mason.Tests\ViridiX.Mason.Tests.csproj", "{9DC3A5E8-9C7D-445F-A07E-A98A1EB0D528}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViridiX.Linguist", "ViridiX.Linguist\ViridiX.Linguist.csproj", "{E5CA613F-4B11-4B42-B0DF-B493E06B02B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViridiX.Linguist", "ViridiX.Linguist\ViridiX.Linguist.csproj", "{E5CA613F-4B11-4B42-B0DF-B493E06B02B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViridiX.Linguist.Tests", "ViridiX.Linguist.Tests\ViridiX.Linguist.Tests.csproj", "{23164790-0FA5-46A2-A782-FA62E5C37EF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViridiX.Linguist.Tests", "ViridiX.Linguist.Tests\ViridiX.Linguist.Tests.csproj", "{23164790-0FA5-46A2-A782-FA62E5C37EF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViridiX.Explorer", "ViridiX.Explorer\ViridiX.Explorer.csproj", "{B04537F3-FA44-4370-9381-203CD8E6D54D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViridiX.Explorer", "ViridiX.Explorer\ViridiX.Explorer.csproj", "{B04537F3-FA44-4370-9381-203CD8E6D54D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViridiX.Ventriloquist", "ViridiX.Ventriloquist\ViridiX.Ventriloquist.csproj", "{492B454D-0B78-4B8D-BB65-A4A9B5E14624}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViridiX.Ventriloquist", "ViridiX.Ventriloquist\ViridiX.Ventriloquist.csproj", "{492B454D-0B78-4B8D-BB65-A4A9B5E14624}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
